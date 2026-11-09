@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Temsilci;Örnek;;;
+FN:Örnek Temsilci
+ORG:Koza Gıda
+TITLE:Satış Temsilcisi
+TEL;TYPE=CELL,VOICE:+900000000000
+NOTE:Koza Gıda satış temsilciniz · İstanbul Anadolu Yakası
+END:VCARD
